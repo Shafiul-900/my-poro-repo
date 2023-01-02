@@ -1,3 +1,19 @@
 p {
     color: red;
 }
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    height: 500px;
+    width: 100%;
+}
+.small-box {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+.small-box1 {
+    margin-right: 100px;
+} 
